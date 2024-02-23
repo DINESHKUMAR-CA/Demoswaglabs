@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T19:08:38 IST" name="Suite" finished-at="2024-02-23T19:09:25 IST" duration-ms="46769">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T19:08:38 IST" name="Test" finished-at="2024-02-23T19:09:25 IST" duration-ms="46769">
+      <class name="com.swaglabs.testcases.ProductPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.swaglabs.testcases.ProductPageTest@33f676f6]" started-at="2024-02-23T19:08:38 IST" name="setUp" finished-at="2024-02-23T19:08:51 IST" duration-ms="12893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="productpageValidation()[pri:0, instance:com.swaglabs.testcases.ProductPageTest@33f676f6]" started-at="2024-02-23T19:08:51 IST" name="productpageValidation" finished-at="2024-02-23T19:09:24 IST" duration-ms="32894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productpageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testcases.ProductPageTest@33f676f6]" started-at="2024-02-23T19:09:24 IST" name="tearDown" finished-at="2024-02-23T19:09:25 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testcases.ProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
